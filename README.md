@@ -143,3 +143,7 @@ selected    | Boolean | Should be true for ONE quality ONLY: the one that is cur
         }
     }
 ```
+
+## List of supported video.js plugins & source handlers
+
+* [videojs5-hlsjs-source-handler](https://github.com/streamroot/videojs5-hlsjs-source-handler) -- adds HLS playback support to video.js 5.0+ using Dailymotion's hls.js library.
