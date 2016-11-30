@@ -4,8 +4,8 @@
     "name": "StreamRoot",
     "email": "contact@streamroot.io"
   },
-  "publishConfig":{
-    "registry":"https://registry.npmjs.org/"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "version": "0.0.3",
   "main": "./lib/vjs-quality-picker.js",
